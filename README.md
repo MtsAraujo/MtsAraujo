@@ -1,4 +1,4 @@
-## Oi meu nome é Matheus Araujo e sou programador Web
+## Oi meu nome é Matheus Araujo, sou Desenvolvedor Web Full Stack
 <div align="center">
  
 ![MtsAraujo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MtsAraujo&show_icons=true&theme=outrun)
