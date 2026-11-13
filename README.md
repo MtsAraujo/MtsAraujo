@@ -26,5 +26,5 @@
 
 <div align="center">
   <a href="mailto:matheusddsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matheus-silva-de-araujo-065875197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-silva-de-araujo-065875197](https://www.linkedin.com/in/matheus-silva-de-ara%C3%BAjo-065875197)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
